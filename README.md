@@ -6,12 +6,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealnano&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&layout=compact" alt="nano7zz" /></p>
 <h3 align="left">Info: </h3>
 
-   - 🌱 I’m currently learning **C# and Reversing Engineering**
-
-<h3 align="left">Social media platforms:</h3>
+   - 🌱 PC Tweaker
+   - 🛑 C# Developer
+<h3 align="left">Discord</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCpbHU8fNTw5DOUgsWbX62-A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="therealnano" height="30" width="40" /></a>
- <b>therealnano</b>
 </p>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" />
